@@ -1,0 +1,1 @@
+Generally, the solvent is taken as water, though salts and ions are sometimes taken into consideration. The solvent is sometimes taken to have a [[Periodic Boundary Condition|periodic boundary condition]] and can be represented either [[Solvent Representation|explicity]] or [[Solvent Representation|implicity]]. 

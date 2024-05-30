@@ -1,0 +1,1 @@
+A solvent can either be represented **explicity** (where the solvent is assumed to be a continuous medium, and not granular) or **implicity** (where the solvent is assumed to be a finely granular system of $\ce{H2O}$  molecules + salts + ions). 
